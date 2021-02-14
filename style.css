@@ -1,0 +1,7 @@
+@media all and (min-width: 1300px) {
+    #main-jumbotron {
+        height: 500px;
+        background-position: bottom!important;
+        padding: 150px;
+    }
+}
